@@ -9,12 +9,10 @@
 
 
 
- ![Snake animation](https://github.com/NaugoPgomes/NaugoPgomes/blob/output/github-contribution-grid-snake.svg)
-
-
-
 - 👨‍🎓 I'm graduating from the Systems Analysis and Development course;
 
 ## E-mail
 
 + naugopgomes@gmail.com
+
+ ![Snake animation](https://github.com/NaugoPgomes/NaugoPgomes/blob/output/github-contribution-grid-snake.svg)
