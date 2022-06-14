@@ -8,9 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaugoPgomes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Snake animation](https://github.com/NaugoPgomes/NaugoPgomes/blob/output/github-contribution-grid-snake.svg)
-
-
 - 👨‍🎓 I'm graduating from the Systems Analysis and Development course;
 
 ## E-mail
